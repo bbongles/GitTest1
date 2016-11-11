@@ -7,7 +7,7 @@ public class AppMain {
 		System.out.println("안녕하세요~");
 		System.out.println("Another person modified this...");
 
-		System.out.println("새로운 기능 추가");
+		System.out.println("bug fix");
 		
 	} // end main()
 
